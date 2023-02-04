@@ -1,0 +1,27 @@
+{
+  "name": "is-chroot",
+  "version": "1.0.0",
+  "description": "Check whether the current process is running inside a chroot.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oelin/is-chroot.git"
+  },
+  "keywords": [
+    "chroot",
+    "ext2",
+    "ext3",
+    "ext4",
+    "linux"
+  ],
+  "author": "oelin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oelin/is-chroot/issues"
+  },
+  "homepage": "https://github.com/oelin/is-chroot#readme"
+}
